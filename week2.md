@@ -1,0 +1,6 @@
+So really it's Friday of week 3 because I forgot to do this.
+But I can't believe how much I've already learned! 
+Starting I was very optimistic but nervous, now I feel much more confident in being able to navigate git and create a simple website using all 3 of CSS, HTML, and JS!
+I feel as though I have been equipped enough to go out and learn on my own as needed and like I can build anything involving the frontend with enough research and patience when I approach something I don't know how to do. I am excited to keep learning and adding to my tool bag the skills I will need.
+It's interesting to see how my viewpoint on the internet has changed. I tend to peak under the hood of a lot more sites now to see how they are doing it. I think about how things look and the thought that went behind someones design of a website.
+I feel very optimistic and there are points where I have gotten discouraged but as long as I keep scratching at the surface and asking questions I know I will have that aha moment during those discouraging times.
